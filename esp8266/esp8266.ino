@@ -5,8 +5,8 @@
 const char* ssid = "Marta";
 const char* password = "13070211";
 
-const char* supabase_url = "https://vthvzyigxpzwfijeijsi.supabase.co/rest/v1/clima";  // URL da sua tabela
-const char* supabase_api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ0aHZ6eWlneHB6d2ZpamVpanNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY2NzU3MjMsImV4cCI6MjA2MjI1MTcyM30.LdXgGVo_je8d1gmFdruv4kpx2jCDS22pOiiNkYQwu1M";
+const char* supabase_url = "";  // URL da sua tabela
+const char* supabase_api_key = "";
 const char* fingerprint = "9D:F5:E6:1B:14:EA:7B:57:95:08:63:BA:BA:3A:A3:5B:C4:B6:75:38";
 
 unsigned long ultimoEnvio = 0;
